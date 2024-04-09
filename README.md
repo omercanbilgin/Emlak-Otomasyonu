@@ -1,7 +1,7 @@
 # Emlak-Otomasyonu
 C# - Emlak Otomasyonu / Real Estate Automation
 <!-- wp:heading -->
-<h2>Bu projemde basit bir emlak otomasyonunda gerekli olan işlevlerler vardır. Basit kod hataları vb. unsurlar bulunabilir.</h2>
+<h2>Bu projemde basit bir emlak otomasyonunda gerekli olan işlevlerler vardır. Amatör kod hataları vb. unsurlar bulunabilir.</h2>
 Giriş Bilgileri => Kullanıcı Adı: admin Şifre: 123
 <!-- /wp:heading -->
 
