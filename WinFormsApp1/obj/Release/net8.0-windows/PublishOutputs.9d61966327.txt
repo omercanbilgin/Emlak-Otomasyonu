@@ -1,0 +1,8 @@
+C:\publish\WinFormsApp1.exe
+C:\publish\WinFormsApp1.dll
+C:\publish\WinFormsApp1.deps.json
+C:\publish\WinFormsApp1.runtimeconfig.json
+C:\publish\WinFormsApp1.pdb
+C:\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\publish\Npgsql.dll
